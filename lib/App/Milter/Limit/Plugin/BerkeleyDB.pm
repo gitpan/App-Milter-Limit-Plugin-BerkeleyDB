@@ -1,5 +1,5 @@
 package App::Milter::Limit::Plugin::BerkeleyDB;
-$App::Milter::Limit::Plugin::BerkeleyDB::VERSION = '0.50';
+our $VERSION = '0.51';
 
 # ABSTRACT: BerkeleyDB driver for App::Milter::Limit
 
@@ -92,7 +92,7 @@ App::Milter::Limit::Plugin::BerkeleyDB - BerkeleyDB driver for App::Milter::Limi
 
 =head1 VERSION
 
-version 0.50
+version 0.51
 
 =head1 SYNOPSIS
 
